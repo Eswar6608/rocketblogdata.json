@@ -1,0 +1,22 @@
+[
+  {
+    "id": 101,
+    "userId": 1,
+    "title": "How to Convert Word to JSON",
+    "author": "John Doe",
+    "date": "September 12, 2024",
+    "content": "In this blog, we will learn how to convert a Word document into a JSON format. It's an easy process if you follow the right steps.",
+    "image": "https://example.com/image1.jpg",
+    "introduction": "This blog explains how to convert Word documents into JSON format effectively."
+  },
+  {
+    "id": 102,
+    "userId": 2,
+    "title": "Best Practices for React Performance Optimization",
+    "author": "Jane Smith",
+    "date": "August 15, 2024",
+    "content": "Performance optimization in React applications is crucial for improving user experience. This blog covers various tips and tricks to optimize your React app.",
+    "image": "https://example.com/image2.jpg",
+    "introduction": "Learn how to optimize your React applications for better performance with these best practices."
+  },
+]
